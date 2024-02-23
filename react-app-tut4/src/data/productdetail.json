@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "name": "Starlite Shoes",
+    "description": "Starlite shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance. ",
+    "price": 400,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM0RKqZWDXrodXsQB7f_DtMNPcKMaGouxSHA&usqp=CAU",
+    "reviews": [
+      {
+        "id": 101,
+        "user": "John Doe",
+        "title": "Impressed!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 102,
+        "user": "Jane Smith",
+        "title": "Not Bad",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 103,
+        "user": "Mark Johnson",
+        "title": "Amazing Quality!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 104,
+        "user": "Emily Davis",
+        "title": "Great Fit!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name":  "Nike Shoes",
+    "description": "Nike's footwear collections often feature iconic models that have left a lasting impact on sports culture. From the timeless Air Force 1 to the groundbreaking Air Max series, Nike has created shoes that have become cultural symbols and fashion statements.",
+    "price": 300,
+    "imagePath": "data:image/jpeg;base64,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",
+    "reviews": [
+      {
+        "id": 201,
+        "user": "Sophia Brown",
+        "title": "Stylish and Comfortable!",
+        "comment": "footwear collections often feature iconic models that have left a lasting impact on sports culture. From the timeless Air Force 1 to the groundbreaking Air Max series, Nike has created shoes that have become cultural symbols and fashion statements."
+      },
+      {
+        "id": 202,
+        "user": "Michael White",
+        "title": "Unique Design",
+        "comment": "footwear collections often feature iconic models that have left a lasting impact on sports culture. From the timeless Air Force 1 to the groundbreaking Air Max series, Nike has created shoes that have become cultural symbols and fashion statements."
+      },
+      {
+        "id": 203,
+        "user": "Olivia Rodriguez",
+        "title": "Good Purchase",
+        "comment": "footwear collections often feature iconic models that have left a lasting impact on sports culture. From the timeless Air Force 1 to the groundbreaking Air Max series, Nike has created shoes that have become cultural symbols and fashion statements."
+      },
+      {
+        "id": 204,
+        "user": "Liam Wilson",
+        "title": "Comfortable Fit",
+        "comment": "footwear collections often feature iconic models that have left a lasting impact on sports culture. From the timeless Air Force 1 to the groundbreaking Air Max series, Nike has created shoes that have become cultural symbols and fashion statements."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jordans",
+    "description": "Air Jordan shoes, a signature line under the Nike brand, have become a cultural phenomenon since their introduction in the 1980s. Named after basketball legend Michael Jordan, these shoes transcend the realm of athletic footwear, symbolizing a unique blend of performance, style, and cultural impact.",
+    "price": 350,
+    "imagePath": "data:image/jpeg;base64,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",
+    "reviews": [
+      {
+        "id": 301,
+        "user": "Emma Turner",
+        "title": "Trendy and Chic!",
+        "comment": "a signature line under the Nike brand, have become a cultural phenomenon since their introduction in the 1980s. Named after basketball legend Michael Jordan",
+        "rating": 4.5
+      },
+      {
+        "id": 302,
+        "user": "William Moore",
+        "title": "Highly Recommended",
+        "comment": "a signature line under the Nike brand, have become a cultural phenomenon since their introduction in the 1980s. Named after basketball legend Michael Jordan",
+        "rating": 5
+      },
+      {
+        "id": 303,
+        "user": "Ava Robinson",
+        "title": "Impressive Design",
+        "comment": "a signature line under the Nike brand, have become a cultural phenomenon since their introduction in the 1980s. Named after basketball legend Michael Jordan.",
+        "rating": 4
+      },
+      {
+        "id": 304,
+        "user": "Jackson Hall",
+        "title": "Great Addition to the Wardrobe",
+        "comment": "a signature line under the Nike brand, have become a cultural phenomenon since their introduction in the 1980s. Named after basketball legend Michael Jordan",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Adidas Shoes",
+    "description": "Adidas shoes are crafted with a focus on cutting-edge technologies, ensuring optimal performance and comfort for athletes across various disciplines. The brand consistently pushes the boundaries of design, introducing features that enhance stability, cushioning, and responsiveness.",
+    "price": 400,
+    "imagePath": "https://s3-eu-west-2.amazonaws.com/pauseonline/wp-content/uploads/2016/06/ADIDAS-Originals-350-2.jpg",
+    "reviews": [
+      {
+        "id": 101,
+        "user": "John Doe",
+        "title": "Impressed!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 102,
+        "user": "Jane Smith",
+        "title": "Not Bad",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 103,
+        "user": "Mark Johnson",
+        "title": "Amazing Quality!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 104,
+        "user": "Emily Davis",
+        "title": "Great Fit!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Reebok Shoes",
+    "description": "Reebok's footwear offerings span a wide range of sports and activities, showcasing a dedication to providing top-notch performance features. Whether designed for running, cross-training, or sports like basketball and tennis",
+    "price": 400,
+    "imagePath": "https://trainers-store.com.au/cdn/shop/products/reebok-classic-leather-mu-white-black-silvmt-eg3621-2_1024x1024.jpg?v=1593841916",
+    "reviews": [
+      {
+        "id": 101,
+        "user": "John Doe",
+        "title": "Impressed!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 102,
+        "user": "Jane Smith",
+        "title": "Not Bad",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 103,
+        "user": "Mark Johnson",
+        "title": "Amazing Quality!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 104,
+        "user": "Emily Davis",
+        "title": "Great Fit!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Puma Shoes",
+    "description": "Puma shoes are crafted with a keen focus on delivering optimal athletic performance. The brand incorporates cutting-edge technologies and materials into its designs, ensuring comfort, durability, and functionality across a range of sports and activities.",
+    "price": 400,
+    "imagePath": "https://thumbs.dreamstime.com/b/puma-shoes-white-background-shadows-chisinau-moldova-june-puma-shoes-white-background-shadows-261483228.jpg",
+    "reviews": [
+      {
+        "id": 101,
+        "user": "John Doe",
+        "title": "Impressed!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 102,
+        "user": "Jane Smith",
+        "title": "Not Bad",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 103,
+        "user": "Mark Johnson",
+        "title": "Amazing Quality!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      },
+      {
+        "id": 104,
+        "user": "Emily Davis",
+        "title": "Great Fit!",
+        "comment": "shoes designed primarily for basketball, have consistently pushed the boundaries of innovation. Each iteration of the line introduces cutting-edge technologies, cushioning systems, and materials aimed at enhancing on-court performance."
+      }
+    ]
+  }
+]
